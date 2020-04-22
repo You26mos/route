@@ -1,0 +1,102 @@
+.div1{
+    width:auto;
+    height:100%;
+    background-color:rgba(0,0,0,.5);
+}
+.card{
+    height: 250px;
+}
+body{
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat",sans-serif;
+}
+.middle{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+}
+.counting-sec{
+  padding: 0px 0;
+  width: 100%;
+  background: linear-gradient(90deg,blue,dodgerblue);
+    height: 185px;
+}
+.inner-width{
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+}
+.col{
+  flex: 1;
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+  text-transform: uppercase;
+}
+.col i{
+  font-size: 40px;
+  color: #333;
+}
+.num{
+  font-size: 40px;
+  margin: 20px 0;
+}
+.maher{
+    margin-left: auto;
+    font-family: 'Questrial', sans-serif;
+    font-size: 25px ;
+    font-weight: 1000 ;
+}
+.youssef{
+    
+    height: 70px;
+}
+
+
+.salma{
+    background-color: #022a68 !important;
+}
+.hr{
+    width:100px;
+    height: 4px;
+    border-radius: 10px;
+    background-color: #022a68 !important;
+    margin-bottom: 30px;
+    margin-left: 620px;
+}
+.footer{
+      background-color: #022a68 !important;
+      width:100%;
+    padding-bottom:10px;
+   
+     }
+
+.hh2{
+    margin-top:50px;
+    font-family: 'Pacifico', cursive;
+    color:white;
+    
+}
+
+.pp{
+    color:white;
+}
+
+
+
+
+
+    
+
+
+.copy{
+    color:white;
+}
+
+
+
+
+.link{
+margin-left:15px;}

@@ -1,0 +1,66 @@
+body, html {
+ 
+ background-color: darkgrey;   
+}
+
+.maher{
+    margin-left: auto;
+}
+.youssef{
+    
+    height: 70px;
+}
+
+
+.salma{
+    background-color: #022a68 !important;
+}
+
+.div1{background-color: rgba(0,0,0,.5);
+height: 100%;
+width: 100%;}
+
+
+
+
+.bg {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mm{color:darkblue}
+
+.about{margin-top:100px;
+width: 100%;
+height: 100%;
+}
+
+.zz{width: 250px;
+height: 300px;
+margin-top: 30px;
+border: 7px solid;
+border-color:darkblue;
+border-radius: 30px;}
+
+
+.page-link{background-color: black !important}
+
+
+.rakm{margin-top: 70px;}
+
+
+
+.hr{border-top: 1px solid;
+color:darkblue;
+}
+
+
+
+.ali{font-weight: 700;
+font-size: 16pt;
+color: black}
+
+
+

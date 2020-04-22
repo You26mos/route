@@ -1,0 +1,134 @@
+.etsh2 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.hr{
+    width: 100PX;
+    height: 4PX;
+    background-color: #022a68;
+    border-radius: 10px;
+    margin-bottom: 10px
+}
+.etsh5{
+font-size: 25px;
+}
+.line{
+    text-decoration: line-through;
+    float: left;
+}
+.space{
+    font-weight: 600;
+}
+.ash{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #022a68;
+}
+.sasw{
+    font-size: 20px;
+}
+.list{
+    float: left;
+}
+.drop{
+    float: right
+}
+.lala{
+    height: 400px;
+}
+.ul{
+    position: relative;
+    left: 300px;
+    bottom: 335px
+}
+
+.btn{
+    position: absolute;
+    left: 500px;
+    bottom: 10px;
+    color: #022a68;
+    border-color: #022a68;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    border-radius: 10px
+
+}
+.btn:hover{
+    background-color: #022a68
+}
+
+
+
+
+
+
+
+
+
+.maher{
+    margin-left: auto;
+    font-family: 'Questrial', sans-serif;
+    font-size: 25 ;
+    font-weight: 1000 ;
+}
+.youssef{
+    
+    height: 70px;
+}
+
+
+.salma{
+    background-color: #022a68 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+      background-color: #022a68 !important;
+      width:100%;
+    padding-bottom:10px;
+   
+     }
+
+.hh2{
+    margin-top:50px;
+    font-family: 'Pacifico', cursive;
+    color:white;
+    
+}
+
+.pp{
+    color:white;
+}
+
+
+
+
+
+    
+
+
+.copy{
+    color:white;
+}
+
+
+
+
+.link{
+margin-left:15px;}
